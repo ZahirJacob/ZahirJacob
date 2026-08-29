@@ -1,6 +1,6 @@
 # Hi, I'm Zahir Jacob
 
-AI and Data Science student at the **Tecnicatura Universitaria en Inteligencia Artificial (UNR)**, based in Rosario, Argentina. I build machine learning and NLP systems end to end: from data exploration and model selection to reproducible inference and deployment.
+AI and Data Science student at the **Tecnicatura Universitaria en Inteligencia Artificial**, Universidad Nacional de Rosario (UNR), Argentina. I build machine learning and NLP systems end to end: from data exploration and model selection to reproducible inference and deployment.
 
 [LinkedIn](https://www.linkedin.com/in/zahir-jacob/)
 
