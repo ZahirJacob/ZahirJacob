@@ -17,4 +17,4 @@ Website for a phone-repair business in Rosario, built and delivered for a real c
 
 ## Stack
 
-Python · scikit-learn · TensorFlow/Keras · pandas · LangChain · ChromaDB · Hugging Face Transformers · Docker · Flask · Git
+Python · scikit-learn · TensorFlow/Keras · pandas · LangChain · ChromaDB · Hugging Face Transformers · Docker · Gradio · Git
