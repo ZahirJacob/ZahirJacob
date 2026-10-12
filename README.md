@@ -2,12 +2,17 @@
 
 AI and Data Science student at the **Tecnicatura Universitaria en Inteligencia Artificial**, Universidad Nacional de Rosario (UNR), Argentina. I build machine learning and NLP systems end to end: from data exploration and model selection to reproducible inference and deployment.
 
+Relocating to **Copenhagen, Denmark** in 2027 (EU citizen). Open to machine learning, computer vision and data roles.
+
 [📄 Resume (PDF)](./Zahir_Jacob_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zahir-jacob/) · [zahirjacob81@gmail.com](mailto:zahirjacob81@gmail.com)
 
 ## Featured projects
 
 **[multi-source-rag-assistant](https://github.com/ZahirJacob/multi-source-rag-assistant)** · NLP
 A conversational assistant that answers questions over three heterogeneous sources — documents, tabular data and a knowledge graph — using hybrid retrieval (semantic + BM25 + cross-encoder re-ranking), a local LLM that writes JSON filters and Cypher queries, conversational memory and a ReAct agent with tools. Runs entirely on local models; the adopted local-LLM intent classifier reached 0.96 macro F1 on the project test set.
+
+**[repuestos-radar](https://github.com/ZahirJacob/repuestos-radar)** · Data engineering
+Price-intelligence platform built for a real client, a phone-repair shop in Rosario. A daily GitHub Actions job collects prices of spare parts and used phones from 8 vetted reseller storefronts under a documented courtesy policy (robots.txt, honest user-agent, backoff), stores them as a Postgres price history and serves a Streamlit dashboard with current prices, history and repair margins. The client manages the watchlist without touching code; CI runs on every change.
 
 **[australia-rain-prediction](https://github.com/ZahirJacob/australia-rain-prediction)** → **[australia-rain-app](https://github.com/ZahirJacob/australia-rain-app)** · Machine learning
 Next-day rain classifier trained on ten years of Australian weather observations (142,153 labeled rows from 49 stations): 23 candidate configurations compared with stratified cross-validation and expanding-window temporal evaluation, leakage-aware preprocessing and Docker inference. The selected neural network reached F1 0.640 on the temporal check and ROC-AUC 0.885 on the held-out test. Then deployed as a [live web app](https://australia-rain-app.onrender.com) that fetches today's weather for any of the 49 stations and runs the model in pure NumPy — no TensorFlow, no API key.
@@ -16,7 +21,7 @@ Next-day rain classifier trained on ten years of Australian weather observations
 Integrated multiple data sources through SSIS ETL processes into a SQL Server data warehouse (dimensions, fact tables, views and stored procedures), then built a Power BI dashboard for sales, customer, category, location and Pareto analysis.
 
 **[activcelu](https://github.com/ZahirJacob/activcelu)** · Web
-Website for a phone-repair business in Rosario, built and delivered for a real client.
+Website for a phone-repair business in Rosario, built and delivered for a real client (the same client as repuestos-radar).
 
 ## Education
 
@@ -39,11 +44,11 @@ Final semester. Relevant areas: Machine Learning, Data Mining, Databases, Busine
 
 **Data engineering and BI**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat) ![SSIS](https://img.shields.io/badge/SSIS-0078D4?style=flat) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![SSIS](https://img.shields.io/badge/SSIS-0078D4?style=flat) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
 
 **Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
 
 ## Spoken languages
 
