@@ -36,7 +36,7 @@ Final semester. Relevant areas: Machine Learning, Data Mining, Databases, Busine
 
 **Machine learning**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 
 **NLP and LLM apps**
 
